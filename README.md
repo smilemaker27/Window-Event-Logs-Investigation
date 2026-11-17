@@ -1,4 +1,4 @@
-# Windows Event Logs Investigation 🔐
+# Windows Event Logs Investigation 
 
 ## About This Project
 
